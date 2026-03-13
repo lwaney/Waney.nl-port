@@ -30,7 +30,7 @@ sections:
         elementId: ''
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/Screenshot_20260208_153802_LinkedIn.jpg
       altText: Hero image
       caption: Caption of the image
       elementId: ''

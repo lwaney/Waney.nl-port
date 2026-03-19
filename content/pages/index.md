@@ -13,9 +13,11 @@ sections:
   - type: HeroSection
     title: Turning Circular Vision into Technological Reality
     subtitle: >-
-      This is my info—I'm sharing it all this with ya'll to impress you with all
-      the hard work I've done in the past few years. Once you're impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Ik ben Lucas Waney, een gedreven innovator met focus op de circulaire
+      economie. Als student sta ik midden in de nieuwste ontwikkelingen, maar
+      mijn werk stopt niet bij de theorie. Ik geloof dat de transitie naar een
+      circulaire wereld vraagt om gedurfde concepten die zowel ecologisch als
+      economisch schaalbaar zijn.
     actions:
       - type: Button
         label: Hire me

@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - type: HeroSection
-    title: Turning Circular Vision into Technological Reality
+    title: Turning Circ into Technological Reality
     subtitle: >-
       Ik ben Lucas Waney, een gedreven innovator met focus op de circulaire
       economie. Als student sta ik midden in de nieuwste ontwikkelingen, maar
